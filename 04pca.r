@@ -4,4 +4,4 @@ names(data.pca)
 plot(data.pca$sdev, type="h", main="PCA s.d.")
 data.pca.sample <- t(data) %*% data.pca$rotation[,1:2]
 plot(data.pca.sample, main="PCA")  
-text(data.pca.sample, colnames(data), col = c(rep("red", 4), rep("blue",4)))
+text(data.pca.sample, colnames(data), col = c(rep("red", 4), rep("blue",4),rep("green",4)))
