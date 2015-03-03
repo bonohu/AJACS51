@@ -1,4 +1,6 @@
-AJACS51
+AJACS52
 =======
 
-Supplemental materials for AJACS tutorial at Iwate, Japan on 20141205
+Tutorial materials for AJACS at Fuchu. Tokyo, Japan on 20150305
+
+http://events.biosciencedbc.jp/training/ajacs52
